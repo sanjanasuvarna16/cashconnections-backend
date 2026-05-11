@@ -1,0 +1,15 @@
+{
+  "name": "cashconnections-backend",
+  "version": "1.0.0",
+  "description": "CashConnections Backend API",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vercel dev",
+    "deploy": "vercel --prod"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "jsonwebtoken": "^9.0.2",
+    "mongodb": "^6.3.0"
+  }
+}
