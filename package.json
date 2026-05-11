@@ -2,6 +2,7 @@
   "name": "cashconnections-backend",
   "version": "1.0.0",
   "description": "CashConnections Backend API",
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "dev": "vercel dev",
